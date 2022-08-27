@@ -140,7 +140,7 @@ hr {
 }
 
 .blog-image {
-    max-width: 500px;
+    max-width: 100%;
     display: block;
     margin: auto;
 }

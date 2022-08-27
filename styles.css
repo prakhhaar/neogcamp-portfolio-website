@@ -138,3 +138,7 @@ hr {
 .footer-text {
   padding: 0.5rem 0.5rem;
 }
+
+.blog-image {
+    max-width: 500px;
+}

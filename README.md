@@ -7,4 +7,4 @@ During Mark-4 of neogCamp levelZero, we were asked to make a portfolio website w
 
 I used Netilfy to deploy this website. 
 
-![Website preview](https://github.com/prakhhaar/neogcamp-portfolio-website/Images/webiste-preview.png)
+![website-preview](https://user-images.githubusercontent.com/89513841/188726452-552d709b-3d80-45c3-b23d-b8baffdc557f.png)
